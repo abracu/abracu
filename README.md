@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://ccoingossip.com/wp-content/uploads/2020/08/Ethereum-development.jpg" />
+</p>
 
-<!--
-**abracu/abracu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+import SoftwareDeveloper from 'abracu';
 
-Here are some ideas to get you started:
+class Bio extends SoftwareDeveloper {
+  name     = 'Alfredo Bravo Cuero';
+  title    = 'Software Engineering Consultant';
+  company  = 'Bravo Solution | Remote';
+  location = 'Barcelona, ES';
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Solidity', 'Python'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Nest', 'Truffle'];
+}
+```
+
+⭐️ From [Abracu](https://github.com/abracu)
