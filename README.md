@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="100%">
   <img src="https://ccoingossip.com/wp-content/uploads/2020/08/Ethereum-development.jpg" />
 </p>
 
