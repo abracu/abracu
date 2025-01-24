@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://coinmotion.com/wp-content/uploads/2020/07/ethereum-ether-logo-dorado-1000-671.jpg" />
+  <img src="https://bitcoinist.com/wp-content/uploads/2022/08/Ethereum-merge.jpeg" />
 </p>
 
 ```js
